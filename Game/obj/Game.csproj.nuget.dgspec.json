@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "Z:\\Coding\\practice\\C#\\VS\\Game\\Game\\Game\\Game.csproj": {}
+    "Z:\\Coding\\practice\\C#\\VS\\Game\\orbital-glow\\Game\\Game.csproj": {}
   },
   "projects": {
-    "Z:\\Coding\\practice\\C#\\VS\\Game\\Game\\Game\\Game.csproj": {
+    "Z:\\Coding\\practice\\C#\\VS\\Game\\orbital-glow\\Game\\Game.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "Z:\\Coding\\practice\\C#\\VS\\Game\\Game\\Game\\Game.csproj",
+        "projectUniqueName": "Z:\\Coding\\practice\\C#\\VS\\Game\\orbital-glow\\Game\\Game.csproj",
         "projectName": "Game",
-        "projectPath": "Z:\\Coding\\practice\\C#\\VS\\Game\\Game\\Game\\Game.csproj",
+        "projectPath": "Z:\\Coding\\practice\\C#\\VS\\Game\\orbital-glow\\Game\\Game.csproj",
         "packagesPath": "C:\\Users\\Nikita\\.nuget\\packages\\",
-        "outputPath": "Z:\\Coding\\practice\\C#\\VS\\Game\\Game\\Game\\obj\\",
+        "outputPath": "Z:\\Coding\\practice\\C#\\VS\\Game\\orbital-glow\\Game\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
