@@ -1,3 +1,3 @@
 ﻿
-using var game = new Gamins.Game1();
+using var game = new OrbitalGlow.Game1();
 game.Run();

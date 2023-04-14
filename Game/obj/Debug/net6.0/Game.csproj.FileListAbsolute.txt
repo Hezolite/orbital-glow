@@ -48,3 +48,8 @@ Z:\Coding\practice\C#\VS\Game\orbital-glow\Game\obj\Debug\net6.0\Game.dll
 Z:\Coding\practice\C#\VS\Game\orbital-glow\Game\obj\Debug\net6.0\ref\Game.dll
 Z:\Coding\practice\C#\VS\Game\orbital-glow\Game\obj\Debug\net6.0\Game.pdb
 Z:\Coding\practice\C#\VS\Game\orbital-glow\Game\obj\Debug\net6.0\Game.genruntimeconfig.cache
+Z:\Coding\practice\C#\VS\Game\orbital-glow\Game\bin\Debug\net6.0\Content\Polygon 1.xnb
+Z:\Coding\practice\C#\VS\Game\orbital-glow\Game\bin\Debug\net6.0\Content\Images\Polygon 1.xnb
+Z:\Coding\practice\C#\VS\Game\orbital-glow\Game\bin\Debug\net6.0\Content\Images\Polygon 2.xnb
+Z:\Coding\practice\C#\VS\Game\orbital-glow\Game\bin\Debug\net6.0\Content\Images\Polygon 1vertical.xnb
+Z:\Coding\practice\C#\VS\Game\orbital-glow\Game\bin\Debug\net6.0\Content\Images\Polygon 2 vertical.xnb
